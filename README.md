@@ -1,7 +1,7 @@
 - Learning New Things Everyday
 - 👋 Hi, I’m @arxhSync
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in tuning my skills
+- 🌱 Into Data Science with Python and SQL
 - 💞️ I’m looking to collaborate on Data Science( SQL, Python, Machine Learning)
 - 📫 How to reach me - syedarsh44@gmail.com
 
