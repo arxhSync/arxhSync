@@ -1,4 +1,5 @@
 - Learning New Things Everyday
+- Data Scientist
 - 👋 Hi, I’m @arxhSync
 - 👀 I’m interested in tuning my skills
 - 🌱 Into Data Science with Python and SQL
