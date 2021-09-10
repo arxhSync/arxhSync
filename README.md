@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @arxhSync
 - 👀 I’m interested in tuning my skills
 - 🌱 Into Data Science with Python and SQL
-- : ) I’m looking to collaborate on Data Science( SQL, Python, Machine Learning)
+- ✨ I’m looking to collaborate on Data Science( SQL, Python, Machine Learning, Deep Learning, NLP)
 - 📫 How to reach me - syedarsh44@gmail.com
 
 <!---
