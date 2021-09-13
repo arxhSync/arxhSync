@@ -1,6 +1,5 @@
 - Learning New Things Everyday                                                        
--                                                             ![giphy-2](https://user-images.githubusercontent.com/88678816/133068569-82e1cfc5-9326-4473-8b9c-17e6104425b7.gif)
-
+-![giphy-2](https://user-images.githubusercontent.com/88678816/133068569-82e1cfc5-9326-4473-8b9c-17e6104425b7.gif)
 - Data Scientist                                                           
 - 👋 Hi, I’m @arxhSync
 - 👀 I’m interested in tuning my skills
