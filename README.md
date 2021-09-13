@@ -1,15 +1,17 @@
-- Learning New Things Everyday
-- Data Scientist                                                        !       
+- Learning New Things Everyday                                                          ![giphy-2](https://user-images.githubusercontent.com/88678816/133068569-82e1cfc5-9326-4473-8b9c-17e6104425b7.gif)
+
+- Data Scientist                                                           
 - 👋 Hi, I’m @arxhSync
 - 👀 I’m interested in tuning my skills
 - 🌱 Into Data Science with Python and SQL
-- ✨ I’m looking to collaborate on Data Science( SQL, Python, R, Machine Learning, Deep Learning, NLP, Big Data)
+- ✨ I’m looking to collaborate on Data Science
+- ( SQL, Python, R, Machine Learning, Deep Learning, NLP, Big Data)
 - 📫 How to reach me - syedarsh44@gmail.com
 
 
 
 
-![giphy-2](https://user-images.githubusercontent.com/88678816/133068431-5963d0df-fc26-4002-bf71-5a3551c46eee.gif)
+
 
 
 
