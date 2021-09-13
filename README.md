@@ -1,5 +1,5 @@
 - Learning New Things Everyday
-- Data Scientist                                                        ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-images.githubusercontent.com/88678816/133067548-a357da60-e825-40f6-9d15-a1767f072028.gif)
+- Data Scientist                                                        !       ______________________________________________[68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966](https://user-       ___________________________________________________images.githubusercontent.com/88678816/133067548-a357da60-e825-40f6-9d15-a1767f072028.gif)
 
 - 👋 Hi, I’m @arxhSync
 - 👀 I’m interested in tuning my skills
